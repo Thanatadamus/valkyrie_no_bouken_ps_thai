@@ -5,15 +5,15 @@ Patch แปลภาษาไทยของเกม Valkyrie no Bouken Toki n
 อ้างอิงงานผลงานแปลภาษาอังกฤษของ eadmaster  
 แต่ไม่แก้ไขชุดฟอนต์ใน bios scph5500.bin ใช้การเพิ่มชุดฟอนต์ภาษาไทยใหม่เข้าไปในตัวเกม
 
-Current status
+## Current status
 - แปลบทสนทนาในเกมทั้งหมด
 - แปลข้อความฉากเปิด/จบเกมทั้งหมด
 - แปลข้อความในภาพเมนูทั้งหมด
 - ทำ autoboot เข้าเกมโดยตรงโดยไม่ต้องผ่านหน้าชุดรวม
 
-Preview 
+## Preview 
 
-Patch instructions
+## Patch instructions
 
-Credits
+## Credits
 - eadmaster: วิธีการ,ไฟล์อ้างอิงฉบับภาษาอังกฤษ
