@@ -1,6 +1,6 @@
 # Valkyrie no Bouken Toki no Kagi Densetsu (Thai)
 Patch แปลภาษาไทยของเกม Valkyrie no Bouken Toki no Kagi Densetsu ฉบับรีเมคบนเครื่อง PlayStaion  
-ซึ่งเป็น 1 เกมจากทั้งหมด 4 เกมรีเมคในชุดรวมของเกม Namco Anthology 2 
+ซึ่งเป็น 1 เกมจากทั้งหมด 4 เกมรีเมคในชุดรวมของเกม Namco Anthology 2 ไม่ได้แปลอีก 3 เกมอื่นๆ
 
 อ้างอิงงานผลงานแปลภาษาอังกฤษของ eadmaster  
 แต่ไม่แก้ไขชุดฟอนต์ใน bios scph5500.bin เพราะจะกระทบเกมอื่นๆ ใช้การเพิ่มชุดฟอนต์ภาษาไทยใหม่เข้าไปในตัวเกม  
